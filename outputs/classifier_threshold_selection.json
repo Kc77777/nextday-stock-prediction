@@ -1,0 +1,1 @@
+{"best_model":"Logistic","best_threshold":0.195,"cv_metrics_at_best":{"Accuracy":0.5218342448,"Precision":0.5214935941,"Recall":0.9990311642,"F1":0.6852744088},"holdout_metrics_at_best":{"Accuracy":0.5238095238,"Precision":0.5238095238,"Recall":1.0,"F1":0.6875}}
